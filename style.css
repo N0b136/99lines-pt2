@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: darkred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.friends {
+    background-color: darkgrey;
+    font-family: 'Trebuchet MS';
+    padding-left: 2em;
+    font-weight: 500;
+}
+
+.friends h3 {
+    text-transform: uppercase;
+}
